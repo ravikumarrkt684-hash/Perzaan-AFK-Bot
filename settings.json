@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": DILBAG.aternos.me:38130
+    "port": 38130
     "version": "1.21.1"
   },
   "position": {
